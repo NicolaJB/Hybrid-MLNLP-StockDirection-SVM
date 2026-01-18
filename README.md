@@ -31,7 +31,7 @@ The notebook provides an end-to-end workflow, including data fetching, feature e
 ```
 stocktrendsvm/
 ├─ README.md               # This file
-├─ StockTrendSVM.ipynb     # End-to-end notebook
+├─ Hybrid-MLNLP-StockDirection-SVM.ipynb     # End-to-end notebook
 ```
 ## Quick Start
 Clone the repository:
@@ -72,5 +72,4 @@ This project demonstrates:
 - End-to-end, reproducible ML pipelines for financial time-series analysis
 
 ## License
-
-MIT License – see LICENSE file for details.
+This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
